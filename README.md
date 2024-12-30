@@ -1,2 +1,2 @@
-# e-commerce
-Full stack React and Spring boot e-commerce
+# weather-app
+Full stack React and Spring boot weather-app
